@@ -32,7 +32,7 @@ table_data = et_sess.process_file(filepath=Location_of_PDF_with_Tables, output_f
 ```
 
 ## Detailed Library Usage
-The tutorial available at <a href="https://colab.research.google.com/github/ExtractTable/ExtractTable-py/blob/master/example-code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> takes you through
+The tutorial available at <a href="https://colab.research.google.com/drive/15kiboWawzGG7pX3gEsyzn1P-fcu1tA5O?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> takes you through
 
 ```Markup
 1. Installation
